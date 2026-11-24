@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="ai-subtitle-gen" width="840" />
-
 # AiSubtitleGen — Automatic Subtitle Generator for Any Video (Portable x64 Build, JSON Configuration)
 
 <p><strong>AiSubtitleGen — Automatic Subtitle Generator for Any Video (Portable x64 Build, JSON Configuration): Auto subtitles for any video — 100+ languages, fully local. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
